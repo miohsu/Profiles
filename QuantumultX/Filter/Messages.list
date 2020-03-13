@@ -1,0 +1,33 @@
+# > Telegram
+DOMAIN-SUFFIX,t.me,Messages
+DOMAIN-SUFFIX,tdesktop.com,Messages
+DOMAIN-SUFFIX,telegra.ph,Messages
+DOMAIN-SUFFIX,telegram.me,Messages
+DOMAIN-SUFFIX,telegram.org,Messages
+IP-CIDR,91.108.4.0/22,Messages
+IP-CIDR,91.108.8.0/22,Messages
+IP-CIDR,91.108.12.0/22,Messages
+IP-CIDR,91.108.16.0/22,Messages
+IP-CIDR,91.108.56.0/22,Messages
+IP-CIDR,149.154.160.0/20,Messages
+# > Twitter
+host-keyword, twitter, Messages
+host-keyword, twimg, Messages
+# Facebook
+DOMAIN-KEYWORD,facebook,Messages
+DOMAIN-KEYWORD,fbcdn,Messages
+IP-CIDR,103.4.96.0/22,Messages
+IP-CIDR,129.134.0.0/17,Messages
+IP-CIDR,157.240.0.0/17,Messages
+IP-CIDR,173.252.64.0/19,Messages
+IP-CIDR,173.252.96.0/19,Messages
+IP-CIDR,179.60.192.0/22,Messages
+IP-CIDR,185.60.216.0/22,Messages
+IP-CIDR,204.15.20.0/22,Messages
+IP-CIDR,31.13.24.0/21,Messages
+IP-CIDR,31.13.64.0/18,Messages
+IP-CIDR,45.64.40.0/22,Messages
+IP-CIDR,66.220.144.0/20,Messages
+IP-CIDR,69.171.224.0/19,Messages
+IP-CIDR,69.63.176.0/20,Messages
+IP-CIDR,74.119.76.0/22,Messages
